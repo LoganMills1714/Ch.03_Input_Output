@@ -146,7 +146,7 @@ wor /= 100
 fin *= wor
 overall = fin + sem
 
-print(overall)
+print("Your overall grade is", overall)
 
 
 
